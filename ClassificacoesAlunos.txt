@@ -1,0 +1,401 @@
+100#Biologia#1#18.000125
+100#Ingles#1#16.104605
+100#História#1#16.089685
+100#Fisica#1#11.338402
+100#Matematica#1#12.524276
+100#Portugues#1#7.503347
+100#Economia#1#8.752714
+100#Educacao Fisica#1#14.861835
+100#Filosofia#1#14.868743
+100#Geografia#1#18.955086
+100#Biologia#2#10.136033
+100#Ingles#2#12.310662
+100#História#2#17.295444
+100#Fisica#2#14.553154
+100#Matematica#2#14.855386
+100#Portugues#2#12.475204
+100#Economia#2#14.738390
+100#Educacao Fisica#2#15.123171
+100#Filosofia#2#10.134650
+100#Geografia#2#18.069476
+110#Biologia#1#10.679775
+110#Ingles#1#14.988363
+110#História#1#13.423626
+110#Fisica#1#18.886984
+110#Matematica#1#17.538670
+110#Portugues#1#12.430861
+110#Economia#1#5.471438
+110#Educacao Fisica#1#14.462704
+110#Filosofia#1#10.655990
+110#Geografia#1#15.219049
+110#Biologia#2#18.565132
+110#Ingles#2#16.195168
+110#História#2#8.199247
+110#Fisica#2#4.759432
+110#Matematica#2#15.777310
+110#Portugues#2#9.251747
+110#Economia#2#14.122217
+110#Educacao Fisica#2#16.102568
+110#Filosofia#2#19.856598
+110#Geografia#2#9.845419
+120#Biologia#1#7.952622
+120#Ingles#1#19.720804
+120#História#1#15.562567
+120#Fisica#1#16.053694
+120#Matematica#1#14.424297
+120#Portugues#1#5.162974
+120#Economia#1#14.106155
+120#Educacao Fisica#1#18.155315
+120#Filosofia#1#8.363359
+120#Geografia#1#10.982582
+120#Biologia#2#16.263916
+120#Ingles#2#11.643708
+120#História#2#7.804391
+120#Fisica#2#8.398510
+120#Matematica#2#9.748240
+120#Portugues#2#6.664115
+120#Economia#2#11.784278
+120#Educacao Fisica#2#18.362499
+120#Filosofia#2#18.547329
+120#Geografia#2#7.969029
+130#Biologia#1#18.474449
+130#Ingles#1#12.072367
+130#História#1#12.260672
+130#Fisica#1#9.104527
+130#Matematica#1#19.786274
+130#Portugues#1#11.903627
+130#Economia#1#8.258312
+130#Educacao Fisica#1#5.451726
+130#Filosofia#1#19.164228
+130#Geografia#1#5.179985
+130#Biologia#2#12.011313
+130#Ingles#2#10.146275
+130#História#2#8.433309
+130#Fisica#2#18.621078
+130#Matematica#2#12.475958
+130#Portugues#2#11.431133
+130#Economia#2#19.055679
+130#Educacao Fisica#2#4.801344
+130#Filosofia#2#16.184227
+130#Geografia#2#16.323273
+140#Biologia#1#17.245077
+140#Ingles#1#6.005846
+140#História#1#4.253883
+140#Fisica#1#15.015285
+140#Matematica#1#17.891954
+140#Portugues#1#14.072695
+140#Economia#1#15.779593
+140#Educacao Fisica#1#15.606592
+140#Filosofia#1#19.991325
+140#Geografia#1#18.217155
+140#Biologia#2#10.731118
+140#Ingles#2#8.901150
+140#História#2#9.616243
+140#Fisica#2#12.212379
+140#Matematica#2#13.457817
+140#Portugues#2#17.535706
+140#Economia#2#10.593292
+140#Educacao Fisica#2#17.464170
+140#Filosofia#2#8.309076
+140#Geografia#2#10.646314
+150#Biologia#1#12.596864
+150#Ingles#1#11.486678
+150#História#1#18.595398
+150#Fisica#1#16.853243
+150#Matematica#1#16.459519
+150#Portugues#1#13.146477
+150#Economia#1#16.838491
+150#Educacao Fisica#1#14.528860
+150#Filosofia#1#12.551197
+150#Geografia#1#11.975681
+150#Biologia#2#19.285772
+150#Ingles#2#15.972682
+150#História#2#12.873342
+150#Fisica#2#18.251801
+150#Matematica#2#13.997589
+150#Portugues#2#17.472633
+150#Economia#2#9.556280
+150#Educacao Fisica#2#17.404024
+150#Filosofia#2#15.435360
+150#Geografia#2#6.086836
+160#Biologia#1#5.455845
+160#Ingles#1#8.393410
+160#História#1#4.047994
+160#Fisica#1#10.628693
+160#Matematica#1#4.430021
+160#Portugues#1#15.357114
+160#Economia#1#19.006357
+160#Educacao Fisica#1#7.838573
+160#Filosofia#1#6.894335
+160#Geografia#1#9.080633
+160#Biologia#2#18.191851
+160#Ingles#2#14.432939
+160#História#2#6.405361
+160#Fisica#2#14.901540
+160#Matematica#2#10.173035
+160#Portugues#2#10.203606
+160#Economia#2#11.995856
+160#Educacao Fisica#2#6.360528
+160#Filosofia#2#13.394986
+160#Geografia#2#17.529209
+170#Biologia#1#13.441738
+170#Ingles#1#19.286541
+170#História#1#12.898338
+170#Fisica#1#6.370425
+170#Matematica#1#19.732882
+170#Portugues#1#10.540267
+170#Economia#1#6.269116
+170#Educacao Fisica#1#13.038379
+170#Filosofia#1#8.034022
+170#Geografia#1#11.816233
+170#Biologia#2#11.424488
+170#Ingles#2#19.377522
+170#História#2#6.016493
+170#Fisica#2#7.196115
+170#Matematica#2#9.107994
+170#Portugues#2#14.068307
+170#Economia#2#6.027394
+170#Educacao Fisica#2#14.420060
+170#Filosofia#2#13.946144
+170#Geografia#2#16.849167
+180#Biologia#1#7.965468
+180#Ingles#1#11.622910
+180#História#1#10.229027
+180#Fisica#1#7.252006
+180#Matematica#1#4.454003
+180#Portugues#1#18.426777
+180#Economia#1#10.823958
+180#Educacao Fisica#1#6.272336
+180#Filosofia#1#19.159788
+180#Geografia#1#10.565008
+180#Biologia#2#6.099016
+180#Ingles#2#18.170374
+180#História#2#5.474778
+180#Fisica#2#6.595177
+180#Matematica#2#5.137017
+180#Portugues#2#9.845425
+180#Economia#2#8.048918
+180#Educacao Fisica#2#6.161750
+180#Filosofia#2#16.530451
+180#Geografia#2#11.284916
+190#Biologia#1#9.592386
+190#Ingles#1#11.236803
+190#História#1#16.943113
+190#Fisica#1#18.906792
+190#Matematica#1#14.426337
+190#Portugues#1#7.443974
+190#Economia#1#14.873478
+190#Educacao Fisica#1#18.542751
+190#Filosofia#1#8.002009
+190#Geografia#1#17.773758
+190#Biologia#2#11.540197
+190#Ingles#2#12.095294
+190#História#2#13.606299
+190#Fisica#2#17.080984
+190#Matematica#2#16.093496
+190#Portugues#2#11.395920
+190#Economia#2#19.221878
+190#Educacao Fisica#2#14.123819
+190#Filosofia#2#11.029285
+190#Geografia#2#17.195158
+200#Biologia#1#15.023695
+200#Ingles#1#15.235307
+200#História#1#19.794327
+200#Fisica#1#19.270638
+200#Matematica#1#17.620316
+200#Portugues#1#8.629059
+200#Economia#1#12.598812
+200#Educacao Fisica#1#12.230955
+200#Filosofia#1#5.654943
+200#Geografia#1#10.624456
+200#Biologia#2#13.227467
+200#Ingles#2#18.025051
+200#História#2#11.040619
+200#Fisica#2#15.675962
+200#Matematica#2#17.908218
+200#Portugues#2#15.450277
+200#Economia#2#16.811525
+200#Educacao Fisica#2#15.304567
+200#Filosofia#2#15.867455
+200#Geografia#2#4.305479
+210#Biologia#1#18.176498
+210#Ingles#1#12.399798
+210#História#1#11.413164
+210#Fisica#1#5.043102
+210#Matematica#1#15.414757
+210#Portugues#1#11.823091
+210#Economia#1#14.682865
+210#Educacao Fisica#1#14.912786
+210#Filosofia#1#7.192876
+210#Geografia#1#18.666142
+210#Biologia#2#17.854122
+210#Ingles#2#18.240299
+210#História#2#12.703173
+210#Fisica#2#6.227120
+210#Matematica#2#11.205559
+210#Portugues#2#19.829800
+210#Economia#2#7.448512
+210#Educacao Fisica#2#11.136375
+210#Filosofia#2#9.051719
+210#Geografia#2#12.234551
+220#Biologia#1#18.104065
+220#Ingles#1#11.035608
+220#História#1#11.480509
+220#Fisica#1#16.906399
+220#Matematica#1#9.842529
+220#Portugues#1#7.384303
+220#Economia#1#19.985867
+220#Educacao Fisica#1#6.457672
+220#Filosofia#1#14.087812
+220#Geografia#1#13.861606
+220#Biologia#2#4.009521
+220#Ingles#2#19.014064
+220#História#2#16.373632
+220#Fisica#2#15.637360
+220#Matematica#2#9.106842
+220#Portugues#2#10.683579
+220#Economia#2#14.919908
+220#Educacao Fisica#2#14.888991
+220#Filosofia#2#7.284190
+220#Geografia#2#17.382717
+230#Biologia#1#15.342730
+230#Ingles#1#17.259327
+230#História#1#5.512781
+230#Fisica#1#5.307802
+230#Matematica#1#16.224077
+230#Portugues#1#14.073150
+230#Economia#1#7.421635
+230#Educacao Fisica#1#7.416749
+230#Filosofia#1#5.296973
+230#Geografia#1#10.221172
+230#Biologia#2#19.234554
+230#Ingles#2#19.160721
+230#História#2#10.237658
+230#Fisica#2#8.307436
+230#Matematica#2#15.074703
+230#Portugues#2#8.544560
+230#Economia#2#16.429853
+230#Educacao Fisica#2#16.541843
+230#Filosofia#2#10.759357
+230#Geografia#2#8.514494
+240#Biologia#1#7.103479
+240#Ingles#1#4.181060
+240#História#1#7.069181
+240#Fisica#1#19.731773
+240#Matematica#1#7.904868
+240#Portugues#1#17.115618
+240#Economia#1#6.183279
+240#Educacao Fisica#1#10.370298
+240#Filosofia#1#13.616161
+240#Geografia#1#6.830086
+240#Biologia#2#17.253675
+240#Ingles#2#6.523699
+240#História#2#19.806992
+240#Fisica#2#8.114698
+240#Matematica#2#7.737587
+240#Portugues#2#5.626198
+240#Economia#2#7.510571
+240#Educacao Fisica#2#14.155479
+240#Filosofia#2#15.136117
+240#Geografia#2#16.716316
+250#Biologia#1#15.139885
+250#Ingles#1#16.047047
+250#História#1#14.712330
+250#Fisica#1#14.134878
+250#Matematica#1#4.903050
+250#Portugues#1#13.571466
+250#Economia#1#7.632123
+250#Educacao Fisica#1#9.100447
+250#Filosofia#1#15.197351
+250#Geografia#1#5.878991
+250#Biologia#2#16.201132
+250#Ingles#2#12.417973
+250#História#2#12.862581
+250#Fisica#2#13.407823
+250#Matematica#2#9.274662
+250#Portugues#2#15.247830
+250#Economia#2#6.288724
+250#Educacao Fisica#2#6.587003
+250#Filosofia#2#11.765203
+250#Geografia#2#17.763611
+260#Biologia#1#17.012253
+260#Ingles#1#12.909372
+260#História#1#15.823946
+260#Fisica#1#9.056118
+260#Matematica#1#6.165316
+260#Portugues#1#12.456772
+260#Economia#1#8.971822
+260#Educacao Fisica#1#13.409906
+260#Filosofia#1#12.289337
+260#Geografia#1#10.893564
+260#Biologia#2#8.141484
+260#Ingles#2#9.923620
+260#História#2#10.288281
+260#Fisica#2#11.149855
+260#Matematica#2#11.614340
+260#Portugues#2#10.205299
+260#Economia#2#8.468689
+260#Educacao Fisica#2#5.252212
+260#Filosofia#2#9.915873
+260#Geografia#2#8.062757
+270#Biologia#1#14.748547
+270#Ingles#1#14.819791
+270#História#1#12.222982
+270#Fisica#1#15.657734
+270#Matematica#1#15.532285
+270#Portugues#1#19.116045
+270#Economia#1#11.371158
+270#Educacao Fisica#1#19.042610
+270#Filosofia#1#9.144961
+270#Geografia#1#11.366947
+270#Biologia#2#12.274325
+270#Ingles#2#14.581688
+270#História#2#10.429327
+270#Fisica#2#13.690235
+270#Matematica#2#19.784042
+270#Portugues#2#6.406302
+270#Economia#2#14.721575
+270#Educacao Fisica#2#9.501081
+270#Filosofia#2#12.667363
+270#Geografia#2#12.364923
+280#Biologia#1#17.267818
+280#Ingles#1#4.239209
+280#História#1#8.387356
+280#Fisica#1#14.287663
+280#Matematica#1#12.738186
+280#Portugues#1#18.685562
+280#Economia#1#8.265814
+280#Educacao Fisica#1#19.521387
+280#Filosofia#1#7.947730
+280#Geografia#1#17.503605
+280#Biologia#2#15.104379
+280#Ingles#2#11.292026
+280#História#2#17.073622
+280#Fisica#2#4.353339
+280#Matematica#2#6.571982
+280#Portugues#2#15.311199
+280#Economia#2#15.325221
+280#Educacao Fisica#2#10.986216
+280#Filosofia#2#13.318738
+280#Geografia#2#16.027363
+290#Biologia#1#19.864529
+290#Ingles#1#15.130866
+290#História#1#8.472188
+290#Fisica#1#16.061804
+290#Matematica#1#6.738863
+290#Portugues#1#4.068063
+290#Economia#1#11.931057
+290#Educacao Fisica#1#5.278670
+290#Filosofia#1#6.609297
+290#Geografia#1#18.452820
+290#Biologia#2#16.527872
+290#Ingles#2#15.946866
+290#História#2#10.982811
+290#Fisica#2#4.101467
+290#Matematica#2#13.356595
+290#Portugues#2#12.295654
+290#Economia#2#5.069596
+290#Educacao Fisica#2#12.704364
+290#Filosofia#2#10.235703
+290#Geografia#2#7.453214
+final
