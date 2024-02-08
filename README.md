@@ -19,7 +19,7 @@ This project involves the development of a program to generate final grades from
 - Utilizes doubly linked lists for dynamic memory management.
 - The program is structured to ensure clear separation between the data structure implementation and the main application logic.
   
-#Environment
+## Environment
 
 CLion
 
