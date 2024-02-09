@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/untitled18.dir/main.c.o CMakeFiles/untitled18.dir/funcoes.c.o  -o untitled18 

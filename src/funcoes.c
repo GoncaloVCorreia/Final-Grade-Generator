@@ -274,7 +274,7 @@ void GeraPautaPorDisciplina(){
 void RecebeFileNN() {
     //printf("ola\n");
     FILE *file;
-    file = fopen("NomeAlunos.txt", "r");
+    file = fopen("db/NomeAlunos.txt", "r");
 
     char *linha = malloc(100 * sizeof(char));
     char *nome;
@@ -299,7 +299,7 @@ void RecebeFileNN() {
 
 void RecebeFileClass(){
     FILE *file;
-    file = fopen("ClassificacoesAlunos.txt", "r");
+    file = fopen("db/ClassificacoesAlunos.txt", "r");
 
     char *linha =(char*)malloc(100 * sizeof(char));
     char *disciplina;

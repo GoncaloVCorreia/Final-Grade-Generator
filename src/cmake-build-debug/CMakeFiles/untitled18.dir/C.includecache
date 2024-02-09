@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/goncalocorreia/Desktop/untitled18/Estruturas.h
+
+/Users/goncalocorreia/Desktop/untitled18/funcoes.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+math.h
+-
+Estruturas.h
+/Users/goncalocorreia/Desktop/untitled18/Estruturas.h
+
