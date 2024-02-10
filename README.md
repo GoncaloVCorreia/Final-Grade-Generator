@@ -1,4 +1,4 @@
-# -PPP-Project
+# Final Grade Generator
 Principles of Procedural Programming
 
 ## Project Overview
